@@ -21,16 +21,13 @@ Mods change how a town looks, what villagers say, what shops sell, which days ar
 
 ## Example mods
 
-Each example is a whole mod in its own repository, laid out the way yours will be. Fork one to start.
+Each example is a whole mod in its own repository, laid out the way yours will be, and each puts two kinds of mod together. Fork one to start.
 
 | Example | What it shows |
 |---|---|
-| [Clover Meadow](https://github.com/Play-AC-Online/playac-example-clover-meadow) | New textures |
-| [Chatty Villagers](https://github.com/Play-AC-Online/playac-example-chatty-villagers) | New villager lines, no code |
-| [Tea House](https://github.com/Play-AC-Online/playac-example-tea-house) | A shop with its own hours, stock and translations |
-| [Cosy Corner](https://github.com/Play-AC-Online/playac-example-cosy-corner) | New furniture |
-| [Harvest Fair](https://github.com/Play-AC-Online/playac-example-harvest-festival) | Calendar days and letters |
-| [Daily Gift](https://github.com/Play-AC-Online/playac-example-daily-gift) | A script with commands and a timer |
+| [Springtime Town](https://github.com/Play-AC-Online/playac-example-springtime-town) | New textures and new villager lines, no code |
+| [Evening Tea Room](https://github.com/Play-AC-Online/playac-example-evening-tea-room) | A shop with its own hours and stock, selling new furniture |
+| [Harvest Post](https://github.com/Play-AC-Online/playac-example-harvest-post) | Calendar days and letters, and a script with commands and a timer |
 
 ## Rules
 
