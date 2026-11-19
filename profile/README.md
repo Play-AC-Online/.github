@@ -26,7 +26,7 @@ Each example is a whole mod in its own repository, laid out the way yours will b
 | Example | What it shows |
 |---|---|
 | [Springtime Town](https://github.com/Play-AC-Online/playac-example-springtime-town) | New textures and new villager lines, no code |
-| [After Hours](https://github.com/Play-AC-Online/playac-example-after-hours) | Nook's from 1 AM to 3 AM, selling only gyroids and a lantern with its own pictures |
+| [After Hours](https://github.com/Play-AC-Online/playac-example-after-hours) | Nook's from 1 AM to 3 AM, selling only gyroids, a different few each night, and now and then a lantern with its own pictures |
 | [Harvest Post](https://github.com/Play-AC-Online/playac-example-harvest-post) | Calendar days and letters, and a script with commands and a timer |
 
 ## Rules
